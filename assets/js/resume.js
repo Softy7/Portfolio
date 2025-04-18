@@ -1,7 +1,7 @@
 const resumeData = {
     personalInfo: {
         name: "Ewan Michel",
-        aboutMe: "Je suis sur le point de terminer mon BUT Informatique, parcours A, spécialisé en développement mobile et web. Passionné par la technologie, je compte poursuivre en génie logiciel pour approfondir mes compétences et relever de nouveaux défis dans le développement.",
+        aboutMe: "À l’aube de la fin de mon BUT Informatique, parcours A, dédié au développement mobile et web, ma passion pour la technologie me pousse à m’aventurer en génie logiciel, pour affiner mes compétences et embrasser de nouveaux défis.",
         address: "270 rue de la Barrière, Ferrière la Grande",
         phone: "+33 7 83 15 63 92",
         email: "ewan.michel59@gmail.com"
@@ -11,7 +11,7 @@ const resumeData = {
             degree: "BUT Informatique (Ancien DUT)",
             duration: "2022 - 2025",
             institution: "IUT Valenciennes (UPHF) - Site de Maubeuge, France",
-            description: "Formation riche en enseignement de part les projets, les nombreuses heures de TP et les stages, spécialisation dans le développement."
+            description: "Une formation fertile en enseignements, forgée par des projets, des heures de TP et des stages, avec une spécialisation marquée dans l'art du développement."
         },
         {
             degree: "Baccalauréat Général et Technologique",
@@ -26,10 +26,10 @@ const resumeData = {
             duration: "Mars 2024 - ...",
             company: "Capside",
             tasks: [
-                "Veille concurrentielle des concurrents de l'application mobile destinée aux collectivités.",
-                "Scrapping du web, utilisation d'un script Shell pour automatiser le processus de scrapping. Analyse des données et conclusion.",
-                "Refonte du site web de l'application mobile. Développement de nouvelles fonctionnalités.",
-                "Intervention sur d'autres projets de l'entreprise tout aussi intéressants et enrichissants.",
+                "Veille attentive sur les acteurs concurrents de l’application mobile dédiée aux collectivités.",
+                "Scrapping du web, où un script Shell s’élance pour automatiser la collecte, suivi d’une analyse des données et de ses conclusions.",
+                "Refonte du site de l’application mobile, une réinvention créative avec l’ajout de nouvelles fonctionnalités.",
+                "Interventions sur d’autres projets de l’entreprise, tout aussi captivants et enrichissants.",
                 "Utilisation de Shell, Php, JS, CodeIgniter2, Symphony, etc..."
             ]
         },
@@ -38,9 +38,9 @@ const resumeData = {
             duration: "Avril - Juin 2024",
             company: "Communauté d'agglomération de Maubeuge, France",
             tasks: [
-                "Examen de procédures collaboratives et évaluation des impacts d'une potentielle numérisation.",
-                "Elaboration de diagrammes UML, diagrammes de classes, logigrammes etc...",
-                "Développement de prototypes des petites applications, tests utilisateurs, etc...",
+                "Analyse des procédures collaboratives et évaluation des effets d'une numérisation potentielle.",
+                "Conception de diagrammes UML, de classes, de logigrammes, et autres cartes de réflexion.",
+                "Développement de prototypes pour de petites applications, accompagnés de tests utilisateurs et d'explorations pratiques.",
                 "Outils: PowerApps, Power BI, Power Automate, SharePoint, etc..."
             ]
         }
