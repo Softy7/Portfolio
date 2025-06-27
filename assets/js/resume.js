@@ -23,7 +23,7 @@ const resumeData = {
     experience: [
         {
             title: "Stagiaire développeur",
-            duration: "Mars 2024 - ...",
+            duration: "Mars 2025 - Juin 2025",
             company: "Capside",
             tasks: [
                 "Veille attentive sur les acteurs concurrents de l’application mobile dédiée aux collectivités.",
@@ -35,7 +35,7 @@ const resumeData = {
         },
         {
             title: "Stagiaire développeur web",
-            duration: "Avril - Juin 2024",
+            duration: "Avril 2024 - Juin 2024",
             company: "Communauté d'agglomération de Maubeuge, France",
             tasks: [
                 "Analyse des procédures collaboratives et évaluation des effets d'une numérisation potentielle.",
